@@ -1,0 +1,22 @@
+#footer
+{
+    text-align: center;
+    background-color: #FBCB0A;
+    color: #000000;
+    padding: 50px;
+}
+.task
+{
+    background: #590696;
+    height: 83vh;
+    padding:50px;
+    min-width: 50px;
+    color : #FFFFFF;
+}
+.task1
+{
+    background: #C70A80;
+    height: 83vh;
+    padding:50px;
+    min-width: 50px;
+}
